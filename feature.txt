@@ -1,3 +1,4 @@
  Linia 1
 Linia2
 Linia3
+Funkcjonalność w branchu feature
